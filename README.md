@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a><img src="/furina.jpg"></a>
+<a><img src="/kitadia.jpg"></a>
 
 
